@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+  <title>The .io Games List</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://thimble.mozilla.org/resources/remix/index.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div id="Title">
+      <h1>
+        The .io Games List
+      </h1>
+    </div>
+    <div id="intro">
+      <h3>
+        Play all of the .io games on this website!
+      </h3>
+    </div>
+    <div class="games">
+      <img src="diepio-necromancer-0faed.png.jpg" />
+      <h3>
+        Diep.io
+      </h3>
+      <h4>
+        In this game, you play as a circle tank, destroying nearby blocks and other players to get score and to upgrade and level up you tank. Diep features many classes all with its own properties and many areas of upgrades to create different loadouts for different classes.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.diep.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+    <div class="games">
+      <img src="unnamed.png" />
+      <h3>
+        Slither.io
+      </h3>
+      <h4>
+        In slither.io, you become a snake eating nearby dots to become longer, avoiding running into other snakes. Snakes that run into other snakes die and drop their carcass that acts as food that other snakes can eat to become longer.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.slither.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+    <div class="games">
+      <img src="Agario2.jpg" />
+      <h3>
+        Agar.io
+      </h3>
+      <h4>
+        One of the earlier .io games, agar.io transforms you into a tiny blob of mass that eats dots and other blobs to ain mass while avoiding viruses. Although many remixes had been made, agar.io is the original games.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.agar.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+    <div class="games">
+      <img src="wings-io_272595_full.png.jpg" />
+      <h3>
+        Wings.io
+      </h3>
+      <h4>
+        In wing.io, you are a fighter jet that shoots and destroys other planes to gain score. You can pick up new weapons floating midair and you start with a machine gun. Occaisionally, a warship attack begins and if you destroy a warship, you get a lot of score.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.wings.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+    <div class="games">
+      <img src="qmvlUx9.png" />
+      <h3>
+        Vertix.io
+      </h3>
+      <h4>
+        Vertix.io is an online shooter game in which you choose between many classes to compete against other players in multiple gamemodes. You gain score from killing other players or completing specific requirments based on the gamemode.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.vertix.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+    <div class="games">
+      <img src="Time-Killer-Games-Like-Agar.io-Vanar.io_.jpg" />
+      <h3>
+        Vanar.io
+      </h3>
+      <h4>
+        In vanar.io, your goal as a spaceship is to avoid running into astroids, planets and bullets while destroying nearby objects to gain score and size. Destroying other players will grant a big size and score boost.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.vanar.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+    <div class="games">
+      <img src="supersnake-io.jpg" />
+      <h3>
+        supersnake.io
+      </h3>
+      <h4>
+        Supersnake.io is similar to slither.io, and in both games you control a snake. But in supersnake.io, the goal is not to not run in to other players, but to eat otherplayers to gain lots of score. Like slither.io, there is also a lot of food floating around.
+      </h4>
+    </div>
+    <div class="play-now">
+      <h3
+          style="design: block; text-align: center;">
+        <a href="http://www.supersnake.io">Play Now</a>
+      </h3>
+    </div>
+    <div style="border: 2px solid black">
+    </div>
+  </body>
+</html>
