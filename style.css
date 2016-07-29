@@ -1,0 +1,42 @@
+body {
+  font-family: cursive;
+  text-align: center;
+  display: block;
+  background-color: lightgray
+}
+#Title{
+ text-align: center;
+  background-color: black;
+  color: antiquewhite;
+  padding: 7px;
+  font-size: 25px;
+}
+#intro{
+ font-size: 25px 
+}
+.games h3{
+ font-size: 25px 
+}
+.games h4{
+ font-size: 20px 
+}
+.play-now a{
+ border: 1px solid black;
+  padding-left: 20px;
+  border-radius: 25px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  color: antiquewhite;
+  background-color: black;
+}
+.play-now a:hover{
+ background-color: antiquewhite;
+  color: black;
+  border: 1px solid antiquewhite;
+}
+.games img{
+ margin-top: 10px;
+ height: 250px
+}
